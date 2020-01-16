@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-
+//https://dzone.com/articles/using-self-referencing-tables
 namespace banca.Models
 {
     public class Opcion
